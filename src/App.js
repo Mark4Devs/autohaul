@@ -45,7 +45,7 @@ function App() {
   const [ prEl, setPrEl ] = useState([[]]);
 
   useEffect(() => {
-      const url = "http://localhost:3000/data/categories-db.json";
+      const url = "/data/categories-db.json";
 
       const fetchData = async () => {
       try {

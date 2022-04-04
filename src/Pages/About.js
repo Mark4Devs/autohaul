@@ -8,7 +8,7 @@ export class About extends Component{
     }
 
     async componentDidMount(){
-        const url = "http://localhost:3000/data/about-db.json";
+        const url = "/data/about-db.json";
         const response = await fetch(url);
         const data = await response.json();
         this.setState({info: data.about});
