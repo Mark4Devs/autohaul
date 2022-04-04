@@ -1,0 +1,730 @@
+{
+    "engine": [
+        {
+            "title": "Engine repair",
+            "desc": "We carry out engine inspection, repair, overhaul, engine replacement. We carry out repair work on such components as the air purification system, exhaust system, gas distribution mechanism, lubrication system. Replacement and / or repair of the cylinder block, pistons, crankshaft.",
+            "listTitle": "main services",
+            "image": "/images/eng.png"    
+        },
+        {
+            "item": "replacement of engine seals"
+        },
+        {
+            "item": "removal and installation of cylinder head"
+        },
+        {
+            "item": "disassembly and assembly of cylinder head"
+        },
+        {
+            "item": "adjustment of valves"
+        },
+        {
+            "item": "removal and installation of the engine"
+        },
+        {
+            "item": "piston ring replacement"
+        },
+        {
+            "item": "piston pin replacement"
+        },
+        {
+            "item": "turbocharger repair"
+        }
+    ],
+    "transmission": [
+        {
+            "title": "Transmission repair",
+            "desc": "Transmission diagnostics, replacement of parts, replacement of the gearbox if necessary. Assembly and disassembly of the gearbox, both automatic and manual. Checkpoint diagnostics, dismantling and disassembly of the system, inspection of all components, installation of the system and adjustment. Maintenance of the gearbox, taking into account all functional features.",
+            "listTitle": "main services",
+            "image": "/images/transmission.jpg"  
+        },
+        {
+            "item": "clutch kit replacement"
+        },
+        {
+            "item": "backstage repair"
+        },
+        {
+            "item": "removal and installation of manual transmission / automatic transmission"
+        },
+        {
+            "item": "disassembly and assembly of manual transmission / automatic transmission"
+        },
+        {
+            "item": "removal and installation of the engine"
+        },
+        {
+            "item": "hinge joint replacement"
+        },
+        {
+            "item": "cardan shaft replacement"
+        },
+        {
+            "item": "hinge joint boot replacement"
+        }
+    ],
+    "suspension": [
+        {
+            "title": "Suspension",
+            "desc": "Inspection of the running gear, repair and replacement of axle beams, frames, rear and front suspension. Dismantling of shock absorbers, replacement of hubs, silent blocks, elimination of backlash between moving parts.",
+            "listTitle": "main services",
+            "image": "/images/suspension.png"  
+        },
+        {
+            "item": "removal and installation of wheels"
+        },
+        {
+            "item": "removal and installation of the subframe"
+        },
+        {
+            "item": "replacement of silent blocks"
+        },
+        {
+            "item": "disassembly and assembly of the shock absorber strut"
+        },
+        {
+            "item": "removal and installation of shock absorber"
+        },
+        {
+            "item": "hinge joint replacement"
+        },
+        {
+            "item": "wheel bearing adjustmentt"
+        }  
+    ],
+    "electronics": [
+        {
+            "title": "Electronics",
+            "desc": "We carry out a check of the entire electrical system of the car, we will replace and / or repair the failed wiring nodes. We provide lighting replacement services. We will also equip your car with additional equipment at the most affordable price.",
+            "listTitle": "main services",
+            "image": "/images/electronics.jpg"  
+        },
+        {
+            "item": "instrument panel installation"
+        },
+        {
+            "item": "replacement of light bulbs"
+        },
+        {
+            "item": "elimination of short circuit"
+        },
+        {
+            "item": "xenon installation"
+        },
+        {
+            "item": "central lock installation"
+        },
+        {
+            "item": "battery charging"
+        }
+    ],
+    "steering": [
+        {
+            "title": "Steering",
+            "desc": "The causes of a steering failure can be different: both low quality is expensive, and the maximum service life of the system and many others. In the event of various external signs of breakdown, it is necessary to carry out an inspection of the steering system, which you can do with us.",
+            "listTitle": "main services",
+            "image": "/images/steering.png"  
+        },
+        {
+            "item": "power steering fluid replacement"  
+        },
+        {
+            "item": "traction replacement"
+        },
+        {
+            "item": "rack replacement"
+        },
+        {
+            "item": "shaft cross replacement"
+        },
+        {
+            "item": "rail silent block replacement"
+        }
+    ],
+    "fuel": [
+        {
+            "title": "Fuel system",
+            "desc": "Fuel system malfunctions are always dangerous and fraught with costly repairs. In turn, refueling with low-quality fuel is one of the main causes of fuel system malfunctions. But with regular diagnosis, these problems can be avoided. And we are ready to fully provide it to you.",
+            "listTitle": "main services",
+            "image": "/images/feul.png"  
+        },
+        {
+            "item": "fuel system diagnostics"  
+        },
+        {
+            "item": "fuel pump pressure gauge"
+        },
+        {
+            "item": "fuel system flush"
+        },
+        {
+            "item": "fuel filter replacement"
+        },
+        {
+            "item": "nozzle cleaning"
+        },
+        {
+            "item": "turbine replacement"
+        }
+    ],
+    "brake": [
+        {
+            "title": "Brake system",
+            "desc": "We provide a full range of fuel system repair services. We will quickly and inexpensively replace brake pads, replace pipes and hoses, bleed the system, replace brake discs and drums, caliper guides and much more.",
+            "listTitle": "main services",
+            "image": "/images/brake.png"  
+        },
+        {
+            "item": "brake system diagnostics"  
+        },
+        {
+            "item": "brake fluid replacement"
+        },
+        {
+            "item": "brake hose replacement"
+        },
+        {
+            "item": "brake pad replacement"
+        },
+        {
+            "item": "brake pipe replacement"
+        },
+        {
+            "item": "caliper repair"
+        }
+    ],
+    "ignition": [
+        {
+            "title": "Ignition system",
+            "desc": "There are enough problems in the operation of the ignition system and they can manifest themselves in different ways. But we are ready to take on any of them. After a thorough check, we will establish the cause of the breakdown and offer the most optimal solutions to the problem without unnecessary worries and costs.",
+            "listTitle": "main services",
+            "image": "/images/ignition.png"  
+        },
+        {
+            "item": "replacement of spark plugs"  
+        },
+        {
+            "item": "coil replacement"
+        },
+        {
+            "item": "starter repair"
+        },
+        {
+            "item": "battery repair/replacement"
+        },
+        {
+            "item": "alternator belt replacement"
+        },
+        {
+            "item": "alternator replacement"
+        }
+    ],
+    "cooling": [
+        {
+            "title": "Cooling system",
+            "desc": "Malfunctions of the cooling system can lead to engine failure, and in some cases it may require a major overhaul. The system allows the engine to operate at optimal temperature, and even minor malfunctions can cause serious damage. We provide high-quality service to eliminate problems in the operation of the cooling system.",
+            "listTitle": "main services",
+            "image": "/images/cooling.png"  
+        },
+        {
+            "item": "coolant replacement"  
+        },
+        {
+            "item": "thermostat replacement"
+        },
+        {
+            "item": "sensor replacement"
+        },
+        {
+            "item": "radiator replacement"
+        },
+        {
+            "item": "fan replacement"
+        },
+        {
+            "item": "radiator cleaning"
+        }
+    ],
+    "priceEngine": [
+        {
+            "work": "Replacing the valve cover gasket",
+            "price": "12"
+        },
+        {
+            "work": "Replacing the intake manifold gasket",
+            "price": "25"
+        },
+        {
+            "work": "Exhaust manifold gasket replacement",
+            "price": "25"
+        },
+        {
+            "work": "Head gasket replacement",
+            "price": "150"
+        },
+        {
+            "work": " Replacing the pan gasket",
+            "price": "20"
+        },
+        {
+            "work": "Replacing the front engine seal",
+            "price": "50"
+        },
+        {
+            "work": "Replacement of the rear oil seal of the engine",
+            "price": "60"
+        },
+        {
+            "work": "Removal and installation of cylinder head",
+            "price": "150"
+        },
+        {
+            "work": "Disassembly and assembly of the cylinder head (cylinder head removed)",
+            "price": "25"
+        },
+        {
+            "work": "Replacing the cylinder head valve guide",
+            "price": "3"
+        },
+        {
+            "work": "Valve adjustment, 16-valve cylinder head (cylinder head removed)",
+            "price": "90"
+        },
+        {
+            "work": "Grinding the valve control cup for 1 piece",
+            "price": "5"
+        },
+        {
+            "work": "Grinding of an adjusting washer of the valve for 1 piece",
+            "price": "2"
+        },
+        {
+            "work": "Removal and installation of the car engine",
+            "price": "200"
+        },
+        {
+            "work": "Dismantling and assembly of the block of cylinders",
+            "price": "250"
+        },
+        {
+            "work": "Replacement of piston rings (on the removed piston)",
+            "price": "5"
+        },
+        {
+            "work": "Replacing the piston pin (on a removed piston)",
+            "price": "10"
+        },
+        {
+            "work": "Removal and installation of the turbine",
+            "price": "80"
+        },
+        {
+            "work": "Turbine repair",
+            "price": "120"
+        },
+        {
+            "work": "Attachment belt replacement for 1 pc.",
+            "price": "10"
+        },
+        {
+            "work": "Attachment roller replacement for 1 pc.",
+            "price": "25"
+        },
+        {
+            "work": "Replacing the water pump (without removing the timing)",
+            "price": "30"
+        },
+        {
+            "work": "Removal and installation of a cooling radiator",
+            "price": "40"
+        },
+        {
+            "work": "Removal and installation of the thermostat",
+            "price": "25"
+        },
+        {
+            "work": "Flushing the cooling system",
+            "price": "20"
+        },
+        {
+            "work": "Removal and installation of a fuel nozzle (gasoline)",
+            "price": "7"
+        },
+        {
+            "work": "Removal and installation of the fuel injector FSI, TFSI",
+            "price": "30"
+        },
+        {
+            "work": "Removal and installation of the fuel pump (suspended)",
+            "price": "20"
+        },
+        {
+            "work": "Removal and installation of the fuel pump (located in the fuel tank)",
+            "price": "40"
+        },
+        {
+            "work": "Gasoline fuel pump pressure gauge",
+            "price": "15"
+        },
+        {
+            "work": "Flushing the cooling system",
+            "price": "50"
+        }
+    ],
+    "priceSuspension": [
+        {
+            "work": "Removal and installation of the 1st wheel",
+            "price": "1"
+        },
+        {
+            "work": "Removal and installation of a rack of the stabilizer of cross stability",
+            "price": "7"
+        },
+        {
+            "work": " Removal and installation of the stabilizer bar bushing (without removing the subframe)",
+            "price": "7"
+        },
+        {
+            "work": "Removing the subframe",
+            "price": "25"
+        },
+        {
+            "work": "Replacement of the ball joint (fastening with rivets)",
+            "price": "25"
+        },
+        {
+            "work": "Replacing a pressed ball joint",
+            "price": "30"
+        },
+        {
+            "work": "Replacing a bolted ball joint",
+            "price": "20"
+        },
+        {
+            "work": "Removal and installation of the lower arm of a forward suspension bracket",
+            "price": "20"
+        },
+        {
+            "work": "Removal and installation of the upper arm of the front suspension",
+            "price": "20"
+        },
+        {
+            "work": "Replacing the silent block of the lever (removed lever)",
+            "price": "5"
+        },
+        {
+            "work": "Replacing the silent block of the subframe (removed subframe)",
+            "price": "5"
+        },
+        {
+            "work": "Removal and installation of a rack of the shock-absorber",
+            "price": "30"
+        },
+        {
+            "work": "Disassembly and assembly of the shock absorber strut",
+            "price": "5"
+        },
+        {
+            "work": "Removal and installation of shock absorber without spring",
+            "price": "20"
+        },
+        {
+            "work": " Removal and installation of the spring (spring separately)",
+            "price": "20"
+        },
+        {
+            "work": "Removal and installation of a rack of a pneumoshock absorber",
+            "price": "40"
+        },
+        {
+            "work": "Removal and installation of a spring of a cross front suspension bracket",
+            "price": "40"
+        },
+        {
+            "work": "Removal and installation of a beam of a back suspension bracket",
+            "price": "50"
+        },
+        {
+            "work": "Replacing the silent block beams 2pcs",
+            "price": "70"
+        },
+        {
+            "work": "Removal and installation of the transverse arm of the rear suspension",
+            "price": "40"
+        },
+        {
+            "work": "Removal and installation of a spring of a back suspension bracket",
+            "price": "30"
+        },
+        {
+            "work": "Replacing the silent block of the spring",
+            "price": "15"
+        },
+        {
+            "work": "Removal and installation of the bearing of a nave",
+            "price": "25"
+        },
+        {
+            "work": "Wheel bearing adjustment",
+            "price": "10"
+        },
+        {
+            "work": "Removal and installation of the hub",
+            "price": "20"
+        },
+        {
+            "work": "Steering rack diagnostics",
+            "price": "12"
+        },
+        {
+            "work": "Power steering pump diagnostics",
+            "price": "12"
+        },
+        {
+            "work": "Power steering rack repair",
+            "price": "18"
+        },
+        {
+            "work": "Power Steering Rack Repair",
+            "price": "230"
+        },
+        {
+            "work": "Steering rack replacement",
+            "price": "100"
+        },
+        {
+            "work": "Replacing the silent block of the steering rack",
+            "price": "120"
+        },
+        {
+            "work": "Replacing the steering shaft crosspieces",
+            "price": "70"
+        },
+        {
+            "work": "Tie rod replacement",
+            "price": "20"
+        },
+        {
+            "work": "Steering tip replacement",
+            "price": "20"
+        },
+        {
+            "work": "Replacing the anthers of the steering rack",
+            "price": "17"
+        },
+        {
+            "work": "Power steering belt replacement",
+            "price": "18"
+        },
+        {
+            "work": "Power steering oil change",
+            "price": "15"
+        },
+        {
+            "work": "Flushing the hydraulic booster system",
+            "price": "30"
+        },
+        {
+            "work": "Steering rack distributor repair",
+            "price": "110"
+        }
+    ],
+    "priceTransmission": [
+        {
+            "work": "Removal and installation of the clutch slave cylinder",
+            "price": "20"
+        },
+        {
+            "work": " Removal and installation of the clutch master cylinder",
+            "price": "25"
+        },
+        {
+            "work": "Bleeding the clutch hydraulic line",
+            "price": "23"
+        },
+        {
+            "work": "Removal and installation of the clutch cable",
+            "price": "10"
+        },
+        {
+            "work": "Replacing the clutch kit (without removing the subframe)",
+            "price": "15"
+        },
+        {
+            "work": "Replacing the clutch kit (with the removal of the subframe)",
+            "price": "70"
+        },
+        {
+            "work": "Clutch kit replacement (4WD)",
+            "price": "110"
+        },
+        {
+            "work": "Dual clutch replacement (DSG, Power Shift)",
+            "price": "140"
+        },
+        {
+            "work": "Removing and installing backstage manual transmission, automatic transmission",
+            "price": "170"
+        },
+        {
+            "work": " Gearbox repair",
+            "price": "40"
+        },
+        {
+            "work": " Removal and installation of manual transmission, automatic transmission (without removing the subframe)",
+            "price": "15"
+        },
+        {
+            "work": " Removal and installation of manual transmission, automatic transmission (with subframe removal)",
+            "price": "60"
+        },
+        {
+            "work": "Removal and installation of manual transmission, automatic transmission (all-wheel drive)",
+            "price": "100"
+        },
+        {
+            "work": "Disassembly and assembly of a mechanical gearbox",
+            "price": "130"
+        },
+        {
+            "work": "Disassembly and assembly of the automatic gearbox",
+            "price": "240"
+        },
+        {
+            "work": "Valve body repair",
+            "price": "400"
+        },
+        {
+            "work": "Torque converter repair",
+            "price": "440"
+        },
+        {
+            "work": "Removal and installation of the transfer case",
+            "price": "60"
+        },{
+            "work": "Disassembly and assembly of the transfer case",
+            "price": "240"
+        },
+        {
+            "work": "Removal and installation of cardan shaft",
+            "price": "20"
+        },
+        {
+            "work": "Replacing the propeller shaft cross",
+            "price": "20"
+        },
+        {
+            "work": "Removal and installation of the propeller shaft bearing",
+            "price": "40"
+        },
+        {
+            "work": "Removal and installation of a half shaft of the forward bridge",
+            "price": "30"
+        },
+        {
+            "work": "Removal and installation of a semiaxis of the back split bridge",
+            "price": "30"
+        },
+        {
+            "work": " Removal and installation of a semiaxis of the back continuous bridge",
+            "price": "40"
+        },
+        {
+            "work": "Replacement of an epiploon of a semiaxis",
+            "price": "12"
+        },
+        {
+            "work": "Replacing the gearbox shank oil seal",
+            "price": "30"
+        },
+        {
+            "work": "Axle Outboard Bearing Replacement",
+            "price": "30"
+        },
+        {
+            "work": " Removal and installation of hinge",
+            "price": "30"
+        },
+        {
+            "work": "Removal and installation of anther hinge",
+            "price": "30"
+        },
+        {
+            "work": "Disassembly and assembly of a robotic aba gearbox",
+            "price": "240"
+        },
+        {
+            "work": "Repair of the actuator of the robotic aba gearbox",
+            "price": "200"
+        }
+    ],
+    "brakesPrice": [
+        {
+            "work": "Replacement of brake pipes",
+            "price": "80"
+        },
+        {
+            "work": "Replacement of brake discs",
+            "price": "12"
+        },
+        {
+            "work": " Replacement of brake pads",
+            "price": "80"
+        },
+        {
+            "work": "Brake Fluid Replacement",
+            "price": "13"
+        },
+        {
+            "work": "Replacement of brake hoses",
+            "price": "80"
+        },
+        {
+            "work": "Front axle caliper repair",
+            "price": "60"
+        }
+    ],
+    "priceElectronics": [
+        {
+            "work": "Installing the radio",
+            "price": "8"
+        },
+        {
+            "work": "Headlight adjustment/headlight setting",
+            "price": "30"
+        },
+        {
+            "work": "Xenon installation",
+            "price": "3"
+        },
+        {
+            "work": "Replacing lighting lamps",
+            "price": "20"
+        },
+        {
+            "work": "Installation of the central lock",
+            "price": "70"
+        },
+        {
+            "work": "Battery charging",
+            "price": "4"
+        },
+        {
+            "work": "Removal and installation of battery",
+            "price": "5"
+        },
+        {
+            "work": "Starter repair",
+            "price": "40"
+        },
+        {
+            "work": "Generator repair",
+            "price": "40"
+        },
+        {
+            "work": "Elimination of a short circuit",
+            "price": "8"
+        }
+    ]
+    
+}

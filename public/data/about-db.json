@@ -1,0 +1,52 @@
+{
+    "about": [
+        {
+            "title": "AT/MT",
+            "desc": "Free consultation and transmission diagnostics. Comprehensive repair taking into account all the technical features in the operation of automatic transmission and manual transmission.",
+            "image" : "./images/transmission.jpg"  
+        },
+        {
+            "title": "AUTO ELECTRONICS",
+            "desc": "A wide range of services for the repair of electrical equipment. Checking and replacing electrical appliances, installing additional equipment, repairing the entire auto electric system at the most affordable price.",
+            "image" : "./images/electronics.jpg"
+        },
+        {
+            "title": "ENGINE",
+            "desc": "Dismantling and cleaning the engine, checking and replacing components. We will repair and bring any engine to working condition.",
+            "image" : "./images/engine.jpg"
+        },
+        {
+            "title": "SUSPENSION",
+            "desc": "Inspection of the chassis, repair and replacement of components. Undercarriage maintenance in a reasonable time and at an affordable price.",
+            "image" : "./images/suspension.jpg"
+        }
+    ],
+    "services": [
+        {
+            "title": "SERVICES",
+            "desc": "We will properly inspect and repair your vehicle. Perform replacement or repairing failed parts as soon as possible, depending on the degree of damage or malfunction. We will offer the most optimal solutions to the problem, without extra costs."
+        },
+        {
+            "serviceItem": "Engine",
+            "path": "services-categories/engine"
+        },
+        {
+            "serviceItem": "Transmission",
+            "path": "services-categories/transmission" 
+        },
+        {
+            "serviceItem": "Suspension",
+            "path": "services-categories/suspension"
+        },
+        {
+            "serviceItem": "Electronics",
+            "path": "services-categories/electronics"
+        },
+        {
+            "serviceItem": "Steering",
+            "path": "services-categories/steering"
+        }
+    ]
+
+        
+}
